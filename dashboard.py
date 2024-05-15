@@ -5,9 +5,9 @@ import plotly.express as px
 from sklearn.preprocessing import StandardScaler, MinMaxScaler
 from sklearn.model_selection import train_test_split 
 from sklearn.feature_selection import SelectKBest, f_classif
- 
+
+
 def main():
-  
     st.set_page_config(
                        page_title="DataDash",
                        page_icon="📊",  # You can also use a URL to an image or a local file path
