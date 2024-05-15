@@ -15,8 +15,6 @@ def main():
     st.title("DataDash") 
     with open('./style.css') as f:
         css = f.read()
-
-    st.markdown(f'<style>{css}</style>', unsafe_allow_html=True)
  
     uploaded_file = st.file_uploader("Choose a CSV file", type="csv") 
 
@@ -255,6 +253,8 @@ def main():
           else:
               st.error("Please provide a filename to save the dataset!")
  
+
+        st.markdown(f'<style>{css}</style>', unsafe_allow_html=True)
 
 
 if __name__ == "__main__":
