@@ -1,6 +1,8 @@
 # DataDash
 
-**DataDash** is a powerful tool for data scientists and analysts that allows you to view, clean, and feature engineer data efficiently. With an intuitive dashboard interface, DataDash streamlines your workflow and enhances productivity.
+**DataDash** is a personal tool I use to view,clean,and feature engineer data.
+
+![DataDash Logo](https://gyazo.com/ed421d12bc2c7a219aee902e4f8c8dd2.png)
 
 ## Features
 
@@ -22,4 +24,11 @@ You can install these packages using pip:
 
 ```bash
 pip install pandas streamlit numpy plotly sklearn
+```
+
+And ran with
+
+
+```bash
+streamlit run dashboard.py
 ```
