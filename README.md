@@ -9,6 +9,7 @@
 - **View Data:** Easily upload and visualize your datasets.
 - **Clean Data:** Perform common data cleaning tasks such as handling missing values, removing duplicates, and more.
 - **Feature Engineering:** Create and manage new features to improve your machine learning models.
+- **Python Execution:** Allows for you to run custom Python code in the browser.
 
 ## Installation
 
