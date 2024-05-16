@@ -2,7 +2,7 @@
 
 **DataDash** is a personal tool I use to view,clean,and feature engineer data.
 
-![DataDash Logo](https://gyazo.com/ed421d12bc2c7a219aee902e4f8c8dd2.png)
+![DataDash Logo](https://gyazo.com/8ccfe56558d7e82ac89e633fc63ca80c.png)
 
 ## Features
 
